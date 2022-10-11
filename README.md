@@ -1,4 +1,10 @@
 ### Hi there 👋
+### I am Blobslam, a software developer from germany.<br/>
+
+Programming knowledge stack:<br/>
+- C# (WPF/MVC/.NET Core), Java, JavaScript, HTML/CSS
+
+![Blobslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blobslam&show_icons=true&theme=radical)
 
 <!--
 **Blobslam/Blobslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
